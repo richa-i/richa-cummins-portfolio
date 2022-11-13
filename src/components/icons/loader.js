@@ -23,8 +23,8 @@ const IconLoader = () => (
                   L 89, 28 z"
       />
     </g>
-    <text x="36" y="65" fill="currentColor" fontSize="50px" fontFamily="calibre">
-      D
+    <text x="34" y="65" fill="currentColor" fontSize="50px" fontFamily="calibre">
+      H
     </text>
   </svg>
 );

@@ -158,13 +158,14 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Divyank Lunkad, a final-year student with keen interest in Data Structures
-              and Algorithms.
+              Hello! I'm Hitesh Shimpi, a pre-final year student with keen interest in Data
+              Structures and Algorithms.
             </p>
 
             <p>
-              I am pursuing my Bachelors from <a href="https://pict.edu/">PICT, Pune</a> in Computer
-              Science (2018-2022) with Cumulative GPA of 9.56/10.
+              I am pursuing my Bachelors from{' '}
+              <a href="https://sitrc.sandipfoundation.org/">SITRC, Nashik</a> in Computer Science
+              (2020-2024) with Cumulative GPA of 9.55/10.
             </p>
 
             <p>Here are a few skills and technologies I've been working with recently:</p>

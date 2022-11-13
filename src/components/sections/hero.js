@@ -47,12 +47,12 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Divyank Lunkad.</h2>;
+  const two = <h2 className="big-heading">Hitesh Shimpi.</h2>;
   const three = <h3 className="big-heading">I love exploring new things!</h3>;
   const four = (
     <div>
       <p>
-        I'm a final-year student at PICT, Pune. I have a keen interest in Data Structures and
+        I'm a Pre-final year student at SITRC, Nashik. I have a keen interest in Data Structures and
         Algorithms. I also enjoy building mobile applications!
       </p>
 
@@ -64,7 +64,7 @@ const Hero = () => {
   );
   const five = (
     <a
-      href="https://drive.google.com/file/d/1T2EWR2pD0VRIAssR3Q8aX7VxGbZ0c9H6/view?usp=sharing"
+      href="https://drive.google.com/file/d/1Q4BiRKidJobLgHMwUHizMZJUZypZ0KFz/view?usp=sharing"
       target="_blank"
       rel="nofollow noopener noreferrer"
       className="email-link">

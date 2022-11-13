@@ -96,10 +96,7 @@ const Footer = () => {
           {socialMedia &&
             socialMedia.map(({ name, url }, i) => (
               <li key={i}>
-                <a href={url}
-                  target="_blank"
-                  rel="nofollow noopener noreferrer"
-                  aria-label={name}>
+                <a href={url} target="_blank" rel="nofollow noopener noreferrer" aria-label={name}>
                   <Icon name={name} />
                 </a>
               </li>
@@ -111,7 +108,7 @@ const Footer = () => {
         <a href="https://github.com/bchiang7/v4">
           <div>Designed &amp; Built by Brittany Chiang</div>
           <br></br>
-          <div>Revised by Divyank Lunkad ♥</div>
+          <div>Revised by Hitesh Shimpi ♥</div>
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
               <span>

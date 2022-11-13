@@ -1,12 +1,11 @@
 ---
 date: '3'
-title: "Evento"
+title: 'Speak-Up'
 github: 'https://github.com/divyank00/Evento'
 tech:
   - Android
-  - NodeJS
-  - Express
-  - MongoDB
+  - Firebase
+  - Java
 company: ''
 showInProjects: true
 ---

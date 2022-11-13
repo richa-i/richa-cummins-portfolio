@@ -1,7 +1,7 @@
 ---
-date: ' '
+date: '1'
 title: 'Android Developer Intern'
-company: 'Tailorfit Technologies'
+company: 'NashBud'
 info: 'Lucy Browser'
 range: 'Aug 2020 - Sept 2020'
 ---

@@ -1,12 +1,12 @@
 ---
 date: '2'
-title: "Radiance '20"
+title: 'Todo-list'
 external: 'https://play.google.com/store/apps/details?id=com.pascw.radianceregistration'
 tech:
-  - Android
-  - Material Design
-  - Payment Gateway
-  - Firebase
+  - HTML
+  - CSS
+  - JavaScript
+  - ReactJS
 company: ''
 showInProjects: true
 ---

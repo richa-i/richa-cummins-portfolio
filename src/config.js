@@ -1,27 +1,27 @@
 module.exports = {
-  siteTitle: 'Divyank Lunkad\'s Portfolio',
+  siteTitle: "Hitesh Shimpi's Portfolio",
   siteDescription:
-    'Divyank Lunkad is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Hitesh Shimpi is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Divyank Lunkad, Divyank, Lunkad, divyank00, software engineer, android developer',
-  siteUrl: 'https://divyank00.github.io',
+    'Hitesh Shimpi, Hitesh, Shimpi, hiteshshimpi-55, software engineer, android developer',
+  siteUrl: 'https://hiteshshimpi-55.github.io',
   siteImage: 'images/og.png',
   siteLanguage: 'en_US',
-  name: 'Divyank Lunkad',
+  name: 'Hitesh Shimpi',
   location: 'Nasik, India',
-  email: 'lunkaddivyank@gmail.com',
-  phone: '+917020322459',
-  github: 'https://github.com/divyank00',
-  linkedIn: 'https://www.linkedin.com/in/divyank00/',
+  email: 'shimpihitesh2@gmail.com',
+  phone: '+919420486908',
+  github: 'https://github.com/hiteshshimpi-55',
+  linkedIn: 'https://www.linkedin.com/in/hitesh-shimpi-726811161/',
   twitterHandle: '@divyank_00',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/divyank00',
+      url: 'https://github.com/hiteshshimpi-55',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/divyank00/',
+      url: 'https://www.linkedin.com/in/hitesh-shimpi-726811161/',
     },
   ],
 
