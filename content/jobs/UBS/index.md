@@ -1,9 +1,8 @@
 ---
-date: '4'
+date: 'November 2022 - February 2023'
 title: 'GCCP Facilitator'
-company: 'Google Developer's Student Club'
-range: 'Nov 2022 - Feb 2023'
+company: "Google Developer's Student Club"
 ---
 
-- ud journey and helped them to create their cloud boost account and complete their cloud learning path.
-  -200+ students got familiar with cloud platform and tools after the completion of program.
+- Assisted students in their journey to create their cloud boost accounts and guided them through completing their cloud learning paths.
+- Enabled over 200 students to become familiar with cloud platforms and tools upon program completion.
