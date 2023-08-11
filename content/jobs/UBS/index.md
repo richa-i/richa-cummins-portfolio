@@ -2,7 +2,6 @@
 date: '4'
 title: 'GCCP Facilitator'
 company: 'Google Developer's Student Club'
-# info: 'QA Testing'
 range: 'Nov 2022 - Feb 2023'
 ---
 
