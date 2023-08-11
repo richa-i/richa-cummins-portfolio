@@ -5,14 +5,14 @@
   "author": "Divyank Lunkad <lunkaddivyank@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/divyank00/divyank00.github.io.git"
+    "url": "git+https://github.com/richa-i/richa-cummins-portfolio.git"
   },
   "keywords": [
     "gatsby"
   ],
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider; gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
@@ -78,8 +78,8 @@
     "prettier": "^2.0.4"
   },
   "bugs": {
-    "url": "https://github.com/divyank00/divyank00.github.io/issues"
+    "url": "https://github.com/richa-i/richa-cummins-portfolio/issues"
   },
-  "homepage": "https://github.com/divyank00/divyank00.github.io#readme",
+  "homepage": "https://github.com/richa-i/richa-cummins-portfolio#readme",
   "main": "gatsby-browser.js"
 }
